@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/a.png</file>
+        <file>image/back.png</file>
+        <file>image/back_.png</file>
+        <file>image/blue.png</file>
+        <file>image/c.png</file>
+        <file>image/cd0900df2a1d91efa4c017b263481ac.png</file>
+        <file>image/continue_button.png</file>
+        <file>image/d.png</file>
+        <file>image/fireman.png</file>
+        <file>image/game.jpg</file>
+        <file>image/gamenew.jpg</file>
+        <file>image/loseend.png</file>
+        <file>image/menu_button.png</file>
+        <file>image/min.jpg</file>
+        <file>image/more.jfif</file>
+        <file>image/more-removebg-preview.png</file>
+        <file>image/pause.png</file>
+        <file>image/music.png</file>
+        <file>image/Music.wav</file>
+        <file>image/music_close.png</file>
+        <file>image/play2.png</file>
+        <file>image/play666.png</file>
+        <file>image/red.png</file>
+        <file>image/retry_button.png</file>
+        <file>image/set.jfif</file>
+        <file>image/set2.png</file>
+        <file>image/set-removebg-preview.png</file>
+        <file>image/start.png</file>
+        <file>image/start2.png</file>
+        <file>image/watergirl.png</file>
+        <file>image/win1.png</file>
+        <file>image/win2.png</file>
+        <file>image/win3.png</file>
+        <file>image/win4.png</file>
+        <file>image/win5.png</file>
+    </qresource>
+</RCC>
